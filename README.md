@@ -6,7 +6,7 @@
 
  :earth_africa: **Morroco**
 
-
+<img src="https://github.com/kfifel/kfifel/blob/main/Fullstack%20developer.png" alt="coverture of my demo"/>
 <div align="left">
   <p>
   I am a full stack developer, ambitious person who has developed a mature and responsible approach to any task I undertake, or situation that I am presented with. As   a graduate with 7 years of experience in web development. I am excellent at working with others to achieve a certain objective on time and with excellence.
