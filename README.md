@@ -9,7 +9,7 @@
 
 <div align="center">
   <p>
-  I am a full stack developer, ambitious person who has developed a mature and responsible approach to any task I undertake, or situation that I am presented with. As a graduate with 7 years of experience in web development. I am excellent at working with others to achieve a certain objective on time and with excellence.
+  I am a full stack developer, ambitious person who has developed a mature and responsible approach to any task I undertake, or situation that I am presented with. As   a graduate with 7 years of experience in web development. I am excellent at working with others to achieve a certain_objective on time and with excellence.
    </p>
   <p>
   I would say that I have a full experience of learning and putting into practice the knowledge acquired during my training developing web applications with spring-boot and angular following the methodology scrum which is an agile process most often used to product development, including software. During my internship here, I made different works, all more varied than each other. I made Consiel micro service.
