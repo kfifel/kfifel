@@ -10,8 +10,9 @@
 <div align="center">
   <p>
   I am a full stack developer, ambitious person who has developed a mature and responsible approach to any task I undertake, or situation that I am presented with. As a graduate with 7 years of experience in web development. I am excellent at working with others to achieve a certain objective on time and with excellence.
-  I would say that I have a full experience of learning and putting into practice the knowledge acquired during my training developing web applications with spring-boot and angular following the methodology scrum which is an agile process most often used to product development, including software. During my internship here, I made different works, all more varied than each other. I made Consiel micro service
-The fact of doing all this work allowed me to have a better view of management/administration. 
+  
+  I would say that I have a full experience of learning and putting into practice the knowledge acquired during my training developing web applications with spring-boot and angular following the methodology scrum which is an agile process most often used to product development, including software. During my internship here, I made different works, all more varied than each other. I made Consiel micro service.
+  The fact of doing all this work allowed me to have a better view of management/administration. 
   </p>
 </div>
 
@@ -63,7 +64,7 @@ The fact of doing all this work allowed me to have a better view of management/a
 - 💬 Ask me about frontend, backend development (spring boot and angular),
 - 📫 How to reach me: khalid.fifel.official@gmail.com 
 - 😄 Pronouns: he/his
-- ⚡ Fun fact: I love ⚽ football and 🥋 Martial Arts Uniform!
+- ⚡ Fun fact: I love ⚽ football, 🥋 Martial Arts Uniform!  and 🎸 Guitar
 
 ## Find me around the web 🌎:
 
